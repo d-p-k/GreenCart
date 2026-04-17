@@ -1,6 +1,6 @@
 # 🛒 Green Cart
 
-Green Cart is a modern e-commerce web application designed to connect users with fresh, eco-friendly, and locally sourced products. The platform focuses on promoting sustainable shopping while providing a seamless and intuitive user experience.
+Green Cart is a modern e-commerce web application designed to connect users with fresh, eco-friendly and locally sourced products. The platform focuses on promoting sustainable shopping while providing a seamless and intuitive user experience.
 
 ## 📸 Preview
 
